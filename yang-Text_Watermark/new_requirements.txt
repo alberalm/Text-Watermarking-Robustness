@@ -1,0 +1,15 @@
+gensim==4.3.2
+gradio==4.25.0
+jieba==0.42.1
+nltk==3.8.1
+numpy==1.25.2
+paddlepaddle==2.6.1
+python_Levenshtein==0.25.0
+scikit_learn==1.2.2
+scipy==1.12.0
+spacy==3.7.4
+tensorflow==2.15.0
+tensorflow_hub==0.16.1
+torch==2.2.1
+transformers==4.38.2
+wobert @ git+https://github.com/JunnYu/WoBERT_pytorch.git@f19c7e0301b941140dd55fd6dd46e5e8c157e73f
